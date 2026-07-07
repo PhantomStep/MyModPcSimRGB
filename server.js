@@ -7,7 +7,7 @@ const app = express();
 const PORT = process.env.PORT || 3000; 
 
 // Замени эту ссылку НА СВОЮ, которую тебе выдаст Render/хостинг после деплоя!
-const SERVER_URL = 'https://твой-проект.onrender.com/list';
+const SERVER_URL = 'https://mymodpcsimrgb.onrender.com/list';
 
 app.use(express.json());
 app.use('/images', express.static(path.join(__dirname, 'public/images')));
