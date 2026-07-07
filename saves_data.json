@@ -1,0 +1,12 @@
+[
+  {
+    "id": "mysave",
+    "icon": "http://localhost:3000/images/default.png",
+    "author": "Artyom",
+    "title": "RGB Mega Build 2026",
+    "description": "Мой кастомный стартовый ПК с топовой подсветкой!",
+    "version": "1.0.0",
+    "uploadTime": 1774838400,
+    "downloads": 8
+  }
+]
